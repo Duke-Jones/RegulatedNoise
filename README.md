@@ -1,3 +1,11 @@
+this tool is no longer supported by me.
+Please have a look on  
+
+***"ED-Intelligent Boardcomputer Extension"***  
+https://github.com/Duke-Jones/ED-IBE  
+
+it's the successor of RegulatedNoise
+
 RegulatedNoise DJ-version
 ==============
 for Elite Dangerous 
